@@ -1,0 +1,13 @@
+projeto
+	> public
+		> images
+		> scripts
+			arquivos.js
+		> styles
+			> partials
+				arquivos.css
+			main.css
+	> src
+		> views
+			arquivos.html
+		server.js
